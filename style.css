@@ -1,0 +1,23 @@
+body {
+  background-color: skyblue;
+}
+
+h1{
+  color: white;
+  font-size: 24px;
+  font-family: arial, helvetica, sans-serif;
+}
+
+img {
+  width: 75%;
+}
+
+.header {
+  background-color: black;
+  padding-left: 10px;
+  border: 1px solid black;
+}
+
+.footer {
+ background-color: yellow; 
+}
